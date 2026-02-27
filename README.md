@@ -1,4 +1,3 @@
-# Bank-Reconciliation
 // ═══════════════════════════════════════════════════════════════
 // BANKRECON AI v3 — Enterprise Bank Reconciliation Platform
 // ═══════════════════════════════════════════════════════════════
